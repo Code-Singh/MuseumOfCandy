@@ -1,3 +1,3 @@
 Practicing using Bootstrap 
 
-![My Image](Screenshot.jpg)
+![My Image](https://github.com/Code-Singh/MuseumOfCandy/blob/main/Screenshot.png)
